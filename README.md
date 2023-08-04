@@ -1,3 +1,3 @@
 # IRC-Drone-python
-mIRC Drone
-Compile into binary file using python-pip modules like pyinstaller.
+mIRC Drone written in python2.
+Compile into execution bash file using python-pip modules like pyinstaller.
